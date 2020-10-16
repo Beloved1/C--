@@ -13,7 +13,7 @@ int main()
     List.addNode(3);
     List.addNode(1);
     List.addNode(7);
-    List.addNode(76);
+    List.addNode(20);
 
 
     List.printList();

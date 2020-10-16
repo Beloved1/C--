@@ -15,11 +15,11 @@ private:
     node* temp;
 public:
     list();
-    void addNode(int addData);
-    void deleteNode(int delData);
-    void printList();
-    void revList();
-    void search(int findData);
+    void addNode(int addData);//To add data to the linked list
+    void deleteNode(int delData);//To delete data from the linked list
+    void printList();//To print out the contents of the linked list
+    void revList();//To reverse the linked list
+    void search(int findData);//To search for data in the linked list
 
 };
 
